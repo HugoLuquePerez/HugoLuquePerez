@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋-👨‍💻
 
 ![wallpaper_coffe](https://user-images.githubusercontent.com/105953757/178099650-e17ef1f2-7da0-4541-aac8-7252d96ed589.jpg)
 
@@ -9,7 +9,14 @@ const about me = {
   tools: "React"
   
  challenge: "I am lerning JS to be a ssenior developer frontend"
-}```
+}
+```
+You can find me🌍:
+- [Twiter](https://twitter.com/HugoLuq83042999)
+- [Instagram](https://www.instagram.com/hugoluquee/)
+- discord: ImHuguitoo#5315
+
+[![hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoluquePerez)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HugoLuquePerez/HugoLuquePerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
