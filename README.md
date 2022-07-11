@@ -5,10 +5,10 @@
 ```JS
 const about me = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Java],
+  code: [Javascript, HTML, CSS],
   tools: "React"
   
- challenge: "I am lerning JS to be a ssenior developer frontend"
+ challenge: "I am lerning JS to be a senior developer frontend"
 }
 ```
 You can find me🌍:
