@@ -1,7 +1,8 @@
-### Hi i'm Huguitoo👋-👨‍💻
+## Hi i'm Huguitoo👋-👨‍💻
+___
 
 ![wallpaper_coffe](https://user-images.githubusercontent.com/105953757/178099650-e17ef1f2-7da0-4541-aac8-7252d96ed589.jpg)
-
+___
 ```JS
 const about me = {
   pronouns: "he" | "him",
@@ -11,7 +12,8 @@ const about me = {
  challenge: "I am lerning JS to be a senior developer frontend"
 }
 ```
-You can find me🌍:
+___
+### You can find me🌍:
 - [Twiter](https://twitter.com/HugoLuq83042999)
 - [Instagram](https://www.instagram.com/hugoluquee/)
 - discord: ImHuguitoo#5315
